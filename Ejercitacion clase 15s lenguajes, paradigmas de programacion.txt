@@ -1,0 +1,16 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+Diseño y compatibilidad: Algunos lenguajes de programación están diseñados específicamente para funcionar en determinados sistemas operativos. Por ejemplo, el lenguaje Swift fue creado por Apple para el desarrollo de aplicaciones en iOS, macOS y otros sistemas operativos de Apple. Estos lenguajes pueden tener características y bibliotecas específicas del sistema operativo que no están disponibles en otros sistemas.
+
+Implementación y soporte: La disponibilidad de un lenguaje de programación en un sistema operativo puede depender de la existencia de una implementación y soporte adecuados por parte de los desarrolladores. Si no se han desarrollado herramientas y compiladores para un lenguaje en particular en un sistema operativo específico, puede que no esté disponible en ese entorno.
+
+Ecosistema y comunidad: La adopción y popularidad de un lenguaje de programación pueden influir en su disponibilidad en diferentes sistemas operativos. Si un lenguaje es ampliamente utilizado y tiene una comunidad activa de desarrolladores en un sistema operativo en particular, es más probable que se desarrolle y se mantenga su soporte en ese entorno.
+
+Restricciones y políticas: Algunos sistemas operativos pueden tener restricciones o políticas que limitan o controlan los lenguajes de programación que se pueden ejecutar en ellos. Esto puede deberse a razones de seguridad, estabilidad o compatibilidad con otros componentes del sistema operativo.
+
+¿Qué tipo de máquina virtual es virtualBox?.
+VirtualBox es una plataforma de virtualización que permite la creación y ejecución de máquinas virtuales en un sistema anfitrión. Es un software de virtualización de tipo 2, también conocido como hipervisor de nivel de sistema operativo.
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+el fallo o problema en una máquina virtual no afectará directamente a las demás máquinas virtuales. Cada máquina virtual funciona de manera aislada y se ejecuta como un entorno virtual independiente.
